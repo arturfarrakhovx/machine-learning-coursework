@@ -19,8 +19,8 @@ Each directory contains:
 ## 🛠 Technology Stack
 - **Programming Language:** Python
 - **Environment:** Jupyter Notebook
-- **Data Processing & Analysis:** pandas, numpy, scipy
-- **Visualization:** matplotlib, seaborn
+- **Data Processing & Analysis:** `pandas`, `numpy`, `scipy`
+- **Visualization:** `matplotlib`, `seaborn`
 - **Machine Learning (Scikit-learn):**
   - **Algorithms:** Decision Trees, k-NN, SVM, Naive Bayes (Gaussian, Multinomial, Bernoulli), Ridge Regression, AdaBoost, LDA.
   - **Dimensionality Reduction:** PCA, LLE.
