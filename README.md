@@ -1,10 +1,10 @@
 # Machine Learning Coursework
 
-## 📘 Overview
+## Overview
 This repository contains coursework assignments completed as part of the Machine Learning course.  
 Each assignment is organized in a separate directory with its corresponding Jupyter notebook, datasets (if available), and prediction results.  
 
-## 📂 Repository Structure
+## Repository Structure
 The repository is organized as follows:
 - `01_data-preprocessing-binary-classification/` – Binary classification predicting passenger survival on the **Titanic dataset**.
 - `02_regression-life-expectancy/` – Regression problem predicting **life expectancy** based on health and economic factors.
@@ -16,7 +16,7 @@ Each directory contains:
 - Training and evaluation datasets (if available)  
 - `results.csv` with predictions for the evaluation set  
 
-## 🛠 Technology Stack
+## Technology Stack
 - **Programming Language:** Python
 - **Environment:** Jupyter Notebook
 - **Data Processing & Analysis:** `pandas`, `numpy`, `scipy`
@@ -30,5 +30,5 @@ Each directory contains:
   - Convolutional Neural Networks (CNN)
   - Custom model architectures & optimization
 
-## ⚙️ Notes
+## Notes
 - The coursework solutions were originally completed in Czech, but all README files and explanations in this repository are in English.
